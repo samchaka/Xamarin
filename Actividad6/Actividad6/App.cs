@@ -18,6 +18,7 @@ namespace Actividad6
 			};
 
 			boton.Clicked += (sender, e) => {
+				texto.TextColor = Color.Green;
 				texto.Text = "haz hecho click en el botón";
 			};
 
