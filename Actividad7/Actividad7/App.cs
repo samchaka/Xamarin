@@ -8,6 +8,7 @@ namespace Actividad7
 		public static Page GetMainPage ()
 		{	
 			return new NavigationPage (new Pagina1());
+
 		}
 	}
 }

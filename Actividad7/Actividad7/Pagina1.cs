@@ -14,11 +14,12 @@ namespace Actividad7
 
 			Button boton = new Button
 			{
-				Text = "Click para navegar a la página2"
+				Text = "Click para navegar a la página2",
 			};
 
 			boton.Clicked += (sender, e) => {
 				this.Navigation.PushAsync(new Pagina2());
+
 			};
 
 			//Stacklayout permite apilar los controles verticalmente
