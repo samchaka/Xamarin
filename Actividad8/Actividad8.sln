@@ -52,7 +52,4 @@ Global
 		{7C884AFB-467D-4E51-A5B2-114ABE681105}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{7C884AFB-467D-4E51-A5B2-114ABE681105}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = iOS\Actividad8.iOS.csproj
-	EndGlobalSection
 EndGlobal

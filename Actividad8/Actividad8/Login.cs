@@ -17,7 +17,7 @@ namespace Actividad8
 			};
 
 			boton.Clicked += (sender, e) => {
-
+				this.Navigation.PushAsync(new Contenido());
 			};
 
 			//Stacklayout permite apilar los controles verticalmente
