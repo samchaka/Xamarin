@@ -10,7 +10,7 @@ namespace Actividad8
 
 			Label texto = new Label {
 				Text = "Esta es la pagina de contenido",
-				TextColor = Color.White
+				TextColor = Color.Green
 			};
 
 			//Stacklayout permite apilar los controles verticalmente
